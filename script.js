@@ -44,3 +44,5 @@ window.addEventListener(`beforeunload`, function () {
         return null
     }
 });
+
+//test
